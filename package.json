@@ -1,0 +1,28 @@
+{
+  "name": "apistat",
+  "version": "0.0.0",
+  "description": "API statistics app ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artsoroka/apistat"
+  },
+  "keywords": [
+    "API",
+    "statistics",
+    "metrics"
+  ],
+  "author": "Artem Soroka <art.soroka@yandex.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artsoroka/apistat/issues"
+  },
+  "homepage": "https://github.com/artsoroka/apistat",
+  "dependencies": {
+    "http-proxy": "^1.11.1",
+    "mysql": "^2.8.0"
+  }
+}
